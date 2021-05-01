@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".parcel_catche": true,
+        "dist": true,
+        "node_modules": true
+    }
+}
